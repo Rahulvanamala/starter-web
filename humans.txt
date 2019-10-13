@@ -4,13 +4,7 @@
 # TEAM
 
      RAHUL 
-	 rahul12yujn
-	 erth
-	 mmfmfw
-	 abbaebebe
-	 grerGe
-	 ebgetbbtbb DSVAGRgg
-	 rwGWRGHRfEGWNRJNK
+	 
 
 # THANKS
 
@@ -18,5 +12,5 @@
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS4
+    
     jQuery, Modernizr
