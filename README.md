@@ -5,3 +5,7 @@ This repository is for showing how Git and GitHub work
 for paasimf the time and have some fin g
 
 Sample website with plenty of files for demos
+## GIT comparison
+add git lecture
+## GitHub content comparision with repository
+..
